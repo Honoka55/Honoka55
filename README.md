@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![https://github.com/Honoka55?tab=repositories](https://github-readme-stats.vercel.app/api?username=Honoka55&count_private=true&show_icons=true&theme=discord_old_blurple&hide=contribs&include_all_commits=1&hide_border=1)
+![https://github.com/Honoka55?tab=repositories](https://github-readme-stats.vercel.app/api?username=Honoka55&count_private=true&show_icons=true&theme=discord_old_blurple&hide=contribs&include_all_commits=1&hide_border=1&PAT_1)
 
 - 🔭 I’m currently working on **プロセカ**
 - 🌱 I’m currently learning **踊り子のスキル回し**
