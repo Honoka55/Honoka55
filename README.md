@@ -8,5 +8,4 @@
 - 🤔 I’m looking for help with **ランニング**
 - 💬 Ask me about **スタァライト**
 - 📺 How to reach me: [![bilibili](https://img.shields.io/badge/dynamic/json?label=焰华Honoka55&logo=bilibili&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D7398042&color=blue&style=flat-square)](https://space.bilibili.com/7398042)
-- ♀️ Pronouns: she/her
 - ⚡ Trivia: I’m not sure what to do with GitHub yet…
