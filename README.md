@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![https://github.com/Honoka55?tab=repositories](https://s-atnpunrms-honoka55s-projects.vercel.app/api?username=Honoka55&count_private=true&show_icons=true&theme=discord_old_blurple&show=prs_merged_percentage&include_all_commits=true&hide_border=1&bg_color=363169&title_color=d19ffe&icon_color=d19ffe)](https://github.com/Honoka55?tab=repositories)
+[![https://github.com/Honoka55?tab=repositories](https://s-atnpunrms-honoka55s-projects.vercel.app/api?username=Honoka55&count_private=true&show_icons=true&theme=discord_old_blurple&show=prs_merged_percentage&include_all_commits=true&hide_border=true&bg_color=363169&title_color=d19ffe&icon_color=d19ffe)](https://github.com/Honoka55?tab=repositories)
 
 - 🔭 I’m currently working on **プロセカ**
 - 🌱 I’m currently learning **踊り子のスキル回し**
